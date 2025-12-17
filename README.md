@@ -49,6 +49,7 @@ Figure -02 HALF Subtractor
 
 
 **Program:**
+
 **Half Adder**
 ```
 module half_adder (
@@ -84,6 +85,7 @@ RegisterNumber: 25017529
 */
 
 **RTL Schematic**
+
 **Half Adder**
 <img width="1509" height="787" alt="ha" src="https://github.com/user-attachments/assets/8e7f6a82-f40b-4459-97a2-8f8cca98553d" />
 **Half subtractor**
