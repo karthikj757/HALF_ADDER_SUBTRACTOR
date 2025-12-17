@@ -99,6 +99,7 @@ RegisterNumber: 25017529
 <img width="1300" height="198" alt="hs 1" src="https://github.com/user-attachments/assets/4bd2ddff-3e7b-4f96-a75f-1b1bc8c310be" />
 
 **Result:**
+
 Thus, the Half Adder and Half Subtractor circuits are designed and the truth tables is verified using Quartus software.
 .....
 .
